@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Suphakit
 
-<!--
-**suphakit085/suphakit085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 📊 Data analyst 
 
-Here are some ideas to get you started:
+## Aboutme
+I am a third-year student at Khon Kaen University with interests in software development, data analysis, and artificial intelligence.  
+I have experience in web application development and enjoy applying technology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Languages:** Python, SQL , JavaScript, TypeScript, Java
+- **Database:** MySQL, MongoDB ,PostgreSQL
+- **Libraries/Frameworks** Spring Boots, Next.js ,Nest.js ,
+- **Tools:** Git, GitHub, Docker, WSL
+
+---
+
+## 📌 Featured Projects
+- 🛒 **CD Keys Marketplace** – Web selling game keys  
+- ⚽ **Football Tracking Data Analysis** – Heatmap & Tactical Analysis
+
+---
+
+## 📊 GitHub Stats
+![Suphakit's GitHub stats](https://github-readme-stats.vercel.app/api?username=suphakit085&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suphakit085&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- GitHub: [github.com/suphakit085](https://github.com/suphakit085)
+- Email: suphakit.xo@gmail.com
+
+⭐️ Feel free to check out my repositories!
