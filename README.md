@@ -24,13 +24,6 @@ I have experience in web application development and enjoy applying technology
 
 ---
 
-## 📊 GitHub Stats
-![Suphakit's GitHub stats](https://github-readme-stats.vercel.app/api?username=suphakit085&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suphakit085&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 - GitHub: [github.com/suphakit085](https://github.com/suphakit085)
 - Email: suphakit.xo@gmail.com
